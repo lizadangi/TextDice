@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextDice/static/css/main.2784506f.css",
+    "main.js": "/TextDice/static/js/main.a71555a7.js",
+    "static/js/787.e74f1356.chunk.js": "/TextDice/static/js/787.e74f1356.chunk.js",
+    "index.html": "/TextDice/index.html",
+    "main.2784506f.css.map": "/TextDice/static/css/main.2784506f.css.map",
+    "main.a71555a7.js.map": "/TextDice/static/js/main.a71555a7.js.map",
+    "787.e74f1356.chunk.js.map": "/TextDice/static/js/787.e74f1356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.a71555a7.js"
+  ]
+}
